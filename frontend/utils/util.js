@@ -1,1 +1,1 @@
-export const backend_url = "http://localhost:4000/bot/v1/message";
+export const backend_url = "https://chatbot-jf4p.onrender.com/bot/v1/message";
